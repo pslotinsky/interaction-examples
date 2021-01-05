@@ -27,7 +27,7 @@
     "@nestjs/core": "^6.7.2",
     "@nestjs/platform-express": "^6.7.2",
     "@nestjs/swagger": "^4.1.10",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "class-transformer": "^0.2.3",
     "class-validator": "^0.11.0",
     "dtsgenerator": "^2.3.2",
