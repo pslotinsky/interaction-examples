@@ -31,7 +31,7 @@
     "autobind-decorator": "^2.4.0",
     "axios": "^0.19.1",
     "class-transformer": "^0.2.3",
-    "class-validator": "^0.11.0",
+    "class-validator": "^0.14.0",
     "dtsgenerator": "^2.3.2",
     "faker": "^4.1.0",
     "fastify-swagger": "^2.5.0",
